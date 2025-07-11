@@ -18,6 +18,14 @@ img {
   gap: 52px;
 }
 
+.textoCentrado{
+  text-align: center;
+}
+
+.plantaCard{
+  width: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
