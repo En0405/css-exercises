@@ -24,3 +24,26 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+
+.noPoints{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-links{
+  display: flex;
+}
+.right-links{
+  display: flex;
+}
