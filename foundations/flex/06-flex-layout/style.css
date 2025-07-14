@@ -29,6 +29,11 @@ input {
   width: 400px;
 }
 
+a{
+  text-decoration: none;
+  color: #666;
+}
+
 .content{
   align-self: center;
   display: flex;
@@ -46,16 +51,21 @@ input {
 .header{
   display: flex;
   justify-content: space-between;
+  padding: 16px;
 }
 
 .footer{
   display: flex;
   justify-content: space-between;
+  background-color: #eee;
+  padding: 16px;
 }
 
 .left-links{
   display: flex;
+  gap: 16px;
 }
 .right-links{
   display: flex;
+  gap: 16px;
 }
